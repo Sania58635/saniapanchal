@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)  
+- [![LinkedIn][(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)](https://www.linkedin.com/in/sania-panchal-135059266/)  
 - 📧 Email: panchalsania@gmail.com  
 
 ---
